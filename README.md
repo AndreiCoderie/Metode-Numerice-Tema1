@@ -13,6 +13,8 @@ part - 1
 	
 part - 2
 
-	~clustering_pc = Primeste points si NC, returnand centroids. Am facut un while care se opreste atunci cand greutatile sunt egale la doi pasi consecutive.
+	~clustering_pc = 
+	
+	Primeste points si NC, returnand centroids. Am facut un while care se opreste atunci cand greutatile sunt egale la doi pasi consecutive.
  Am initializat cu 0 greutatile, reprezentand coordonatele punctului x, y si z. Norm calculeaza distanta dintre 2 puncte la care am adaugat functia min pentru a mi
  returna ce a mai mica distanta si indicele clusterului 1 2 3 max NC si am salvat intr un vector coloana de n linii indicii. Mi-am prins urechile in initializare.
